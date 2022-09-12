@@ -3,8 +3,7 @@ Projeto Educa-se
 Projeto Integrador: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB. 
   
 ### Pré-requisitos ###
- PHP 
- JavaScript
+ PHP, JavaScript.
  
 ### Como testar a aplicação.
   1. Acessar o link do projeto: https://educa-se.caiolima1991.repl.co/
