@@ -74,7 +74,7 @@
                         </form>
                     </div>
                     <div class="signup-image">
-                        <figure><img src="assets/images/signup-image.jpg" alt="sing up image"></figure>
+                        <figure><img src="assets/images/signup-image.png" alt="sing up image"></figure>
                         <a href="login.php" class="signup-image-link">Já possuo uma conta</a>
                     </div>
                 </div>
